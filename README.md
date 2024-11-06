@@ -19,6 +19,11 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por ciência de dados e sempre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorgermanio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SVictor-DATA)
 
+ <div>
+   <a href="https://github.com/SVictor-DATA">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SVictor-DATA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVictor-DATA&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 
 Obrigado por visitar o meu perfil! 😊
